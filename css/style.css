@@ -1,0 +1,22 @@
+html {
+  background: rgba(240, 230, 224, 1.0);
+}
+
+.header {
+  background: url("https://images.unsplash.com/photo-1547919307-39751fd99411?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1498&q=80") no-repeat fixed center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  height: 70vh;
+  width: 100vw;
+  background-size: cover;
+  font-family: 'Courgette', cursive;
+  font-size: 3em;
+  color: white;
+  text-shadow: 2px 2px 2px gray;
+}
+
+/*# sourceMappingURL=style.css.map */
