@@ -1,7 +1,7 @@
-# Dulce coffee shop
+# Sassy dulce
 
-Landing page for a vegan coffee shop. Navigation is made through tabs.
-Built with JavaScript, styled with Bulma.
+Landing page for a boots store for a newsletter suscription.
+Built with JavaScript and SASS, styled with Bulma.
 
 ## Live
 
