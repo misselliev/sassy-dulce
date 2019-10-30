@@ -1,4 +1,4 @@
-# Sassy dulce
+# Sassy Paws
 
 Landing page for a boots store for a newsletter suscription.
 Built with JavaScript and SASS, styled with Bulma.
