@@ -31,4 +31,9 @@ body {
 .white {
   color: white !important;
 }
+
+.btn-centered {
+  display: table;
+  margin: 0 auto;
+}
 /*# sourceMappingURL=style.css.map */

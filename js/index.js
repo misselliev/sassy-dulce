@@ -93,7 +93,7 @@ class Section {
     const submit = Object.assign(
       document.createElement('button'),
       {
-        className: 'button'
+        className: 'button btn-centered'
       },
       {
         innerHTML: 'Subscribe to our newsletter'
