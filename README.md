@@ -1,5 +1,7 @@
 # Sassy Paws
 
+![alt text](https://github.com/misselliev/sassy-dulce/tree/master/css/dulceboots.png 'Sassy Paws')
+
 Landing page for a boots store for a newsletter suscription.
 Built with JavaScript and SASS, styled with Bulma.
 
